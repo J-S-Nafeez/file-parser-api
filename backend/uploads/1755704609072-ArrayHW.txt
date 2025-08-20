@@ -1,0 +1,3 @@
+Righ Rotate by one place
+Right rotate by D palces 
+Move Zeros at End 
