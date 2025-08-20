@@ -1,5 +1,5 @@
 const fs = require('fs');
-const csv = require('csv-parser'); // optional, for CSV parsing
+const csv = require('csv-parser'); // optional, for CSV parsing here we used 
 
 const parseFile = async (file) => {
   return new Promise((resolve, reject) => {
